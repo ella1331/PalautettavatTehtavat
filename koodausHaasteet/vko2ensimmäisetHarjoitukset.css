@@ -1,0 +1,26 @@
+.laatikko {
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 10px;
+  float: left;
+}
+#yksi{
+  background-color: #ee82ee;
+}
+
+#kaksi{
+  background-color: #6a5acd;
+}
+
+#kolme{
+  background-color: #b3e9e3;
+}
+
+#neljä{
+  background-color: #00e9ff;
+}
+
+#viisi{
+  background-color: #f915d1;
+}
