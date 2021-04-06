@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fi" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="viikko3tokaharjoitus.css">
+    <script type="text/javascript" src="viikko3tokaHarjoitus.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+<title>Viikko 3 perusharjoituksia</title>
+  </head>
+  <body>
+  <header>Viikko 3 tokat perusharjoitukset:</header>
+  <article class="laatikko" id="yksi">
+    <h1>Tehtävä 1</h1>
+    <p>Scrabble-peli; Kirjoita sana vaadittuun kenttään, ja
+    ohjelma laskee sanalle pisteet seuraavanlaisesti:</p>
+    <ul>
+     <li>A, E, I, N, S, T = 1p</li>
+     <li>O, Ä, K, L = 2p</li>
+     <li>U, M = 3p</li>
+     <li>Y, H, J, P, R, V = 4p</li>
+     <li>Ö, D = 7p</li>
+     <li>B, F, G = 8p</li>
+     <li>C = 10p</li>
+     <li>loput kirjaimet = 12p</li>
+   </ul>
+   <form class="" action="index.html" method="post">
+     <p>Anna sana, jonka pisteet lasketaan: <input type="text" id="sana" value=""></p>
+     <button type="button" name="button" onclick="laskePisteet()">Laske kirjainpisteet</button>
+     <div id="pisteet"></div>
+   </form>
+ </article>
+ <article class='laatikko' id='kaksi'>
+ <h1>Tehtävä 2</h1>
+ <p>Ohjelma arpoo lottonumerot (7kpl).</p>
+ <button type="button" name="button" onclick="lottoArvonta()">Arvo numerot</button>
+ <p></p>
+ <div id="arvonta"></div>
+</article>
+ <article class='laatikko' id='kolme'>
+ <h1>Tehtävä 3</h1>
+ <p>Ohjelma muuntaa JavaScriptissä määritetyt numerot taulukko muotoon.</p>
+ <form class="" action="index.html" method="post">
+   <p></p>
+   <button type="button" name="button" onclick="muunnaTaulukoksi()">Muunna taulukoksi</button>
+   <p></p>
+   <div id="taulukko"></div>
+ </form>
+</article>
+
+
+<article class='laatikko' id='neljä'>
+<h1>Tehtävä 4</h1>
+<p>Paina "Arvo 5 korttia" -nappulaa, ja ohjelma arpoo korttipakasta 5 korttia.</p>
+<button type="button" name="button" onclick="arvoKortit()">Arvo 5 korttia</button>
+<div id='korttiPakka'></div>
+</article>
+</body>
+</html>

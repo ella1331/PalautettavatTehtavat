@@ -1,0 +1,46 @@
+header {
+    font-size: 40px;
+    text-align: center;
+   font-family: 'Indie Flower', cursive;
+}
+
+.laatikko {
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 10px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px
+}
+#yksi{
+  background-color: #ee82ee;
+}
+
+#kaksi{
+  background-color: #6a5acd;
+}
+
+#kolme{
+  background-color: #b3e9e3;
+}
+
+#neljä{
+  background-color: #56c8d2;
+}
+
+button{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+#arvonta{
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+#taulukko{
+  font-size: 30px;
+  letter-spacing: 2px;
+  padding: 15px;
+}
+#korttiPakka{
+  font-size: 30px;
+  letter-spacing: 3px;
+}

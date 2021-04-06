@@ -1,0 +1,61 @@
+
+header {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.laatikko {
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 10px;
+  float: left;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+#yksi{
+  background-color: #ee82ee;
+}
+
+#kaksi{
+  background-color: #6a5acd;
+}
+
+#kolme{
+  background-color: #b3e9e3;
+}
+
+#neljä{
+  background-color: #56c8d2;
+}
+
+#viisi{
+  background-color: #f583e1;
+}
+
+#kuusi{
+  background-color: #e9cae9;
+}
+
+#seitsemän{
+  background-color: #aea6e3;
+}
+
+#kahdeksan{
+  background-color: #5ce8d8;
+}
+
+#yhdeksän{
+  background-color: #00ff9f;
+}
+
+#kymmenen{
+  background-color: #f27e92;
+}
+#yksitoista{
+  background-color: #d2b3de;
+}
+
+button{
+  font-family: 'Gloria Hallelujah', cursive;
+}
