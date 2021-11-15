@@ -1,0 +1,10 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\bin\Debug\Ika.exe.config
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\bin\Debug\Ika.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\bin\Debug\Ika.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.Form1.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.Properties.Resources.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.csproj.GenerateResource.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Ika\Ika\obj\Debug\Ika.pdb
