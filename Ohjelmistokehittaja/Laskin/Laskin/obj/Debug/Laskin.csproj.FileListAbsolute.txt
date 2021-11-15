@@ -1,0 +1,10 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\bin\Debug\Laskin.exe.config
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\bin\Debug\Laskin.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\bin\Debug\Laskin.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.Nelilaskin.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.Properties.Resources.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.csproj.GenerateResource.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\Laskin\Laskin\obj\Debug\Laskin.pdb
