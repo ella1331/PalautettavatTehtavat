@@ -1,0 +1,10 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\bin\Debug\TokaGraafinen.exe.config
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\bin\Debug\TokaGraafinen.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\bin\Debug\TokaGraafinen.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.Form1.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.Properties.Resources.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.csproj.GenerateResource.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\TokaGraafinen\TokaGraafinen\obj\Debug\TokaGraafinen.pdb

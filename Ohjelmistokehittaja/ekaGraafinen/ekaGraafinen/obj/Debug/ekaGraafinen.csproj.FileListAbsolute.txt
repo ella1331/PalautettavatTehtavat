@@ -1,0 +1,10 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.exe.config
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.LomakeFM.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.Properties.Resources.resources
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csproj.GenerateResource.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehittaja\PalautettavatTehtavat\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.pdb
