@@ -1,2 +1,2 @@
 # PalautettavatTehtavat
-Tässä kansiossa on palautettavia koulutehtäviä.
+Tässä repositoriossa on palautettavia koulutehtäviä.
